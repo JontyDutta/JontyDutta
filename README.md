@@ -1,5 +1,4 @@
-
-[![MasterHead](https://img.freepik.com/free-photo/development-with-abstract-background_1134-414.jpg?w=996&t=st=1708624124~exp=1708624724~hmac=bfd572fe12a3cbbf24862f692b52472a6e077433ea1da5321df75c60ecc1e029)](https://JontyDutta.io)
+[![MasterHead](https://in.pinterest.com/pin/1266706138822484/)](https://JontyDutta.io)
 <h1 align="center">Hi 👋, I'm Jonty Dutta</h1>
 <h3 align="center">A passionate Data Analytics from India</h3>
 <img align= "right" alt="Coding" width="400" src="https://as1.ftcdn.net/v2/jpg/07/00/66/32/1000_F_700663280_vmE4aHL2TCzDxEBv1lbFghPweBbx6I0L.jpg">
