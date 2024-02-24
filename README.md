@@ -1,4 +1,4 @@
-[![MasterHead](https://www.istockphoto.com/vector/website-app-design-development-technology-software-code-programming-ui-ux-concept-gm1248949754-363886748?phrase=aesthetic%20coder%20banner&searchscope=image%2Cfilm)](https://JontyDutta.io)
+
 <h1 align="center">Hi 👋, I'm Jonty Dutta</h1>
 <h3 align="center">A passionate Data Analytics from India</h3>
 <img align= "right" alt="Coding" width="400" src="https://as1.ftcdn.net/v2/jpg/07/00/66/32/1000_F_700663280_vmE4aHL2TCzDxEBv1lbFghPweBbx6I0L.jpg">
