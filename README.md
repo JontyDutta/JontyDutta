@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **SQL**
 
-- 💬 Ask me about **Python, Pandas, NumPy**
+- 💬 Ask me about **Python, Pandas, NumPy, SQL, Power BI, Python Libraries**
 
 - 📫 How to reach me **jonty.duttanspa@gmail.com**
 
