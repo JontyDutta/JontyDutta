@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jonty Dutta</h1>
 <h3 align="center">Data Scientist/Data Analyst</h3>
 
-<img align="right" alt="Coding" width="300" 
+<img align="right" alt="Coding" width="250" 
 src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG8yeGthOXk0dDJqd256YXNpcHVrMDNpN2JndW4xMXB3Ym93eG9iOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jontydutta&label=Profile%20views&color=0e75b6&style=flat" alt="jontydutta" /> </p>
