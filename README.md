@@ -7,7 +7,7 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; **About me**
 
-- 🌱 I’m currently learning **Statistics, SQL, Power BI, Machine Learning**
+- 🌱 I’m currently pursuing MCA from Manipal University Jaipur
 
 - 👯 I’m looking to collaborate on **Python, Power BI and Machine Learning Projects**
 
