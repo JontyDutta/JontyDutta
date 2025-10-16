@@ -33,7 +33,7 @@ src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzZicXd4cWd3cjJrbzM1OGZtZ
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jontydutta&" alt="jontydutta" /></p>
 
-```python
+```Python
 import pandas as pd
 
 data = pd.read_csv('my_life.csv')  
